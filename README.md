@@ -3,4 +3,4 @@ This repository is based on the MSc. Peter Schober's thesis &amp; ICCAD 2022 Pap
 
 Please cite the following paper, if you are using the source code:
 
-Peter Schober, Seyedeh Newsha Estiri, Sercan Aygun, Nima TaheriNejad, and M. Hassan Najafi, "Sound Source Localization using Stochastic Computing," ICCAD 2022, San Diego, California, USA.
+Peter Schober, Seyedeh Newsha Estiri, Sercan Aygun, Nima TaheriNejad, and M. Hassan Najafi, "Sound Source Localization using Stochastic Computing," International Conference on Computer-Aided Design - ICCAD 2022, San Diego, California, USA.
