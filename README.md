@@ -1,4 +1,4 @@
-# Stochastic Computing Sound Source Localization
+# Sound Source Localization using Stochastic Computing 
 
 This repository is based on the "Sound Source Localization using Stochastic Computing" paper accepted in ICCAD 2022.
 
